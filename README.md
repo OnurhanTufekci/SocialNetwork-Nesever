@@ -1,6 +1,4 @@
-# SocialNetwork-Nsvr
-
-Made in 2019
+# SocialNetwork-Nesever
 
 Please check .extra_files folder or github wiki part for detailed project information, screenshots and database files.
 
