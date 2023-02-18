@@ -10,3 +10,4 @@ Used technologies : C#, .Net Core MVC, MS Sql Server, Web Api, Entity Framework,
 
 Onurhan TÜFEKÇİ
 onurhan.tufekci@gmail.com
+https://www.linkedin.com/in/onurhan-tüfekçi/
